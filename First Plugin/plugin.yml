@@ -1,0 +1,4 @@
+name: PiGPIO
+main: me.kirby2ig.firstplugin.FirstPlugin
+version: 1.0
+commands:
